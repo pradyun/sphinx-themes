@@ -1,3 +1,5 @@
+> This repository was my attempt at making sphinx-themes.org better. Since the original website's repository has accepted these changes, this no longer serves any significant purpose. Thus, I've gone ahead and archived this repository.
+
 # [sphinx-themes.org](https://sphinx-themes.org)
 
 A showcase for [Sphinx] documentation themes
